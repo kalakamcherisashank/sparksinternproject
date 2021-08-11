@@ -38,5 +38,4 @@ view all customers
 
 ![image](https://user-images.githubusercontent.com/86907511/129021951-aa7c48c6-7b80-4020-931a-1b05ecc70078.png)
 
-# website link
-https://omk9420.github.io/Banking-system/
+
